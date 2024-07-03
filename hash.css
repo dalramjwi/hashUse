@@ -1,0 +1,8 @@
+/* 간단한 스타일링 */
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
